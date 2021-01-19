@@ -1,0 +1,13 @@
+C:\Users\Boraboy\source\repos\Kampİntroo\Musteri\bin\Debug\netcoreapp3.1\Musteri.exe
+C:\Users\Boraboy\source\repos\Kampİntroo\Musteri\bin\Debug\netcoreapp3.1\Musteri.deps.json
+C:\Users\Boraboy\source\repos\Kampİntroo\Musteri\bin\Debug\netcoreapp3.1\Musteri.runtimeconfig.json
+C:\Users\Boraboy\source\repos\Kampİntroo\Musteri\bin\Debug\netcoreapp3.1\Musteri.runtimeconfig.dev.json
+C:\Users\Boraboy\source\repos\Kampİntroo\Musteri\bin\Debug\netcoreapp3.1\Musteri.dll
+C:\Users\Boraboy\source\repos\Kampİntroo\Musteri\bin\Debug\netcoreapp3.1\Musteri.pdb
+C:\Users\Boraboy\source\repos\Kampİntroo\Musteri\obj\Debug\netcoreapp3.1\Musteri.csprojAssemblyReference.cache
+C:\Users\Boraboy\source\repos\Kampİntroo\Musteri\obj\Debug\netcoreapp3.1\Musteri.AssemblyInfoInputs.cache
+C:\Users\Boraboy\source\repos\Kampİntroo\Musteri\obj\Debug\netcoreapp3.1\Musteri.AssemblyInfo.cs
+C:\Users\Boraboy\source\repos\Kampİntroo\Musteri\obj\Debug\netcoreapp3.1\Musteri.csproj.CoreCompileInputs.cache
+C:\Users\Boraboy\source\repos\Kampİntroo\Musteri\obj\Debug\netcoreapp3.1\Musteri.dll
+C:\Users\Boraboy\source\repos\Kampİntroo\Musteri\obj\Debug\netcoreapp3.1\Musteri.pdb
+C:\Users\Boraboy\source\repos\Kampİntroo\Musteri\obj\Debug\netcoreapp3.1\Musteri.genruntimeconfig.cache
